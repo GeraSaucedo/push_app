@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1024167287227",
+    "project_id": "push-notifications-test-8ceb5",
+    "storage_bucket": "push-notifications-test-8ceb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024167287227:android:92831f2ffd6d5162908c9e",
+        "android_client_info": {
+          "package_name": "com.jerryapp.push_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024167287227-rr1mkv7r254s5h69j6cdu142lrpn6kek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABlhVHGih92LswoQr9pCBfv-i5zjSKQss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024167287227-rr1mkv7r254s5h69j6cdu142lrpn6kek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024167287227-u31v81lr69ggmk4dda21n7ks5pv6ilpi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pushApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
